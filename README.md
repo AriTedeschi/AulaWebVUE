@@ -1,24 +1,24 @@
-# aulacp109
+# Projeto Vue.js "aulacp109"
 
-## Project setup
+## Para instalar o projeto rode:
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Para rodar e compilar o projeto para desenvolver
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Para distribuir o projeto
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Ajustar arquivos
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Para modificar as configurações
+Veja [documentação](https://cli.vuejs.org/config/).
